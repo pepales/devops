@@ -13,9 +13,9 @@ Si se accede al servidor web indicando la dirección IP del servidor en lugar de
 
 Enlace ejercicio 1
 
-http://ec2-52-47-79-196.eu-west-3.compute.amazonaws.com
+http://ec2-52-47-162-151.eu-west-3.compute.amazonaws.com/
 
 
 Enlace ejercicio 2
 
-http://52.47.79.196
+http://52.47.162.151
